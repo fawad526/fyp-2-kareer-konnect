@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fyp-2-kareer-konnect/static/css/main.1583e9c8.css",
+    "main.js": "/fyp-2-kareer-konnect/static/js/main.700e5949.js",
+    "static/js/787.30018278.chunk.js": "/fyp-2-kareer-konnect/static/js/787.30018278.chunk.js",
+    "index.html": "/fyp-2-kareer-konnect/index.html",
+    "main.1583e9c8.css.map": "/fyp-2-kareer-konnect/static/css/main.1583e9c8.css.map",
+    "main.700e5949.js.map": "/fyp-2-kareer-konnect/static/js/main.700e5949.js.map",
+    "787.30018278.chunk.js.map": "/fyp-2-kareer-konnect/static/js/787.30018278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1583e9c8.css",
+    "static/js/main.700e5949.js"
+  ]
+}
